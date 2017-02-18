@@ -288,7 +288,7 @@ a:hover {
 }
 /* line 245, ../scss/ADM-dateTimePicker.scss */
 .ADMdtpInput input {
-  height: 34px;
+  /*height: 34px;
   padding: 6px 12px;
   font-size: 14px;
   line-height: 1.42857143;
@@ -308,7 +308,7 @@ a:hover {
   width: 100%;
   margin-bottom: 0;
   border-top-right-radius: 0;
-  border-bottom-right-radius: 0;
+  border-bottom-right-radius: 0;*/
 }
 /* line 265, ../scss/ADM-dateTimePicker.scss */
 .ADMdtpInput input:focus {
@@ -388,7 +388,7 @@ a:hover {
   max-height: 25.25em;
   padding: 1em;
   padding-top: 0;
-  border-radius: 5px;
+  border-radius: 2px;
   background: white;
   overflow: hidden;
   z-index: 9;
@@ -443,8 +443,7 @@ a:hover {
 }
 /* line 373, ../scss/ADM-dateTimePicker.scss */
 .ADMdtp-box .arrow.left:hover {
-  margin-left: -.3em;
-  fill: #d6c483;
+  fill: #ccc;
 }
 /* line 378, ../scss/ADM-dateTimePicker.scss */
 .ADMdtp-box .arrow.right {
@@ -452,8 +451,7 @@ a:hover {
 }
 /* line 380, ../scss/ADM-dateTimePicker.scss */
 .ADMdtp-box .arrow.right:hover {
-  margin-right: -.3em;
-  fill: #d6c483;
+  fill: #ccc;
 }
 /* line 386, ../scss/ADM-dateTimePicker.scss */
 .ADMdtp-box header {
@@ -800,8 +798,8 @@ a:hover {
 }
 /* line 684, ../scss/ADM-dateTimePicker.scss */
 .ADMdtpDays > span > span:not(.disable):hover {
-  background: #fee3da;
-  color: #d63803;
+  background: #fce8e5;
+  color: #e41f00;
 }
 /* line 689, ../scss/ADM-dateTimePicker.scss */
 .ADMdtpDays > span > span.selected, .ADMdtpMonths .ADMdtpDays > span > span:hover {
