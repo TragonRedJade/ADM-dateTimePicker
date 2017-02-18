@@ -269,7 +269,7 @@ a:hover {
   left: -6px;
   width: 0;
   height: 0;
-  border-top: 3em solid #fc5f2a;
+  border-top: 3em solid #e41f00;
   border-right: 3em solid transparent;
   z-index: -1;
 }
@@ -598,16 +598,16 @@ a:hover {
   font-size: 1.5em;
   padding: 0.1em;
   margin-left: 0.2em;
-  fill: #aaa;
+  fill: #e41f00;
   cursor: pointer;
 }
 /* line 513, ../scss/ADM-dateTimePicker.scss */
 .ADMdtp-box footer .timeSelectIcon:hover {
-  fill: #aaa;
+  fill: #e41f00;
 }
 /* line 516, ../scss/ADM-dateTimePicker.scss */
 .ADMdtp-box footer .timeSelectIcon:active {
-  fill: #aaa;
+  fill: #e41f00;
 }
 /* line 521, ../scss/ADM-dateTimePicker.scss */
 .ADMdtp-box hr {
@@ -833,7 +833,7 @@ a:hover {
   bottom: 0;
   width: 0;
   height: 0;
-  border-bottom: 0.7em solid #e3d6a9;
+  border-bottom: 0.7em solid #ccc;
   border-left: .7em solid transparent;
 }
 /* line 730, ../scss/ADM-dateTimePicker.scss */
