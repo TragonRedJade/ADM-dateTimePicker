@@ -490,7 +490,7 @@ a:hover {
 .ADMdtp-box .daysNames > span {
   font-weight: bold;
   cursor: context-menu;
-  color: #fc5f2a;
+  color: #aaa;
 }
 /* line 418, ../scss/ADM-dateTimePicker.scss */
 .ADMdtp-box footer {
@@ -509,7 +509,7 @@ a:hover {
   margin: 0 auto;
   border-radius: .5em;
   background: transparent;
-  color: #cab15c;
+  color: #aaa;
   border: 1px solid transparent;
   text-align: center;
   outline: none;
@@ -564,7 +564,7 @@ a:hover {
   height: 100%;
   padding: 0.1em 0;
   white-space: nowrap;
-  color: #cab15c;
+  color: #aaa;
   -moz-transition: all 0.3s, -moz-transform 0.3s cubic-bezier(0.680, -0.550, 0.265, 1.550);
   -o-transition: all 0.3s, -o-transform 0.3s cubic-bezier(0.680, -0.550, 0.265, 1.550);
   -webkit-transition: all 0.3s, -webkit-transform 0.3s cubic-bezier(0.680, -0.550, 0.265, 1.550);
@@ -605,7 +605,7 @@ a:hover {
 }
 /* line 513, ../scss/ADM-dateTimePicker.scss */
 .ADMdtp-box footer .timeSelectIcon:hover {
-  fill: #cab15c;
+  fill: #aaa;
 }
 /* line 516, ../scss/ADM-dateTimePicker.scss */
 .ADMdtp-box footer .timeSelectIcon:active {
@@ -748,15 +748,15 @@ a:hover {
 }
 /* line 639, ../scss/ADM-dateTimePicker.scss */
 .ADMdtpTime span.dtpIcon:hover svg {
-  fill: #fdab8f;
+  fill: #aaa;
 }
 /* line 642, ../scss/ADM-dateTimePicker.scss */
 .ADMdtpTime span.dtpIcon:hover:before {
-  background: #f6f2e3;
+  background: #f1f1f1;
 }
 /* line 647, ../scss/ADM-dateTimePicker.scss */
 .ADMdtpTime span.dtpIcon:active svg {
-  fill: #fc5f2a;
+  fill: #ccc;
 }
 /* line 650, ../scss/ADM-dateTimePicker.scss */
 .ADMdtpTime span.dtpIcon:active.up {
