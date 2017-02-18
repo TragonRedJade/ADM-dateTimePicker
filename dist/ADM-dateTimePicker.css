@@ -686,7 +686,7 @@ a:hover {
 }
 /* line 591, ../scss/ADM-dateTimePicker.scss */
 .ADMdtpYears p:hover {
-  color: #fc5f2a;
+  color: #ccc;
 }
 /* line 593, ../scss/ADM-dateTimePicker.scss */
 .ADMdtpYears p:hover:before {
@@ -736,7 +736,7 @@ a:hover {
 }
 /* line 628, ../scss/ADM-dateTimePicker.scss */
 .ADMdtpTime span.dtpIcon svg {
-  fill: #fc5f2a;
+  fill: #aaa;
   height: 43px;
   position: absolute;
   display: block;
@@ -746,7 +746,7 @@ a:hover {
 }
 /* line 639, ../scss/ADM-dateTimePicker.scss */
 .ADMdtpTime span.dtpIcon:hover svg {
-  fill: #aaa;
+  fill: #ccc;
 }
 /* line 642, ../scss/ADM-dateTimePicker.scss */
 .ADMdtpTime span.dtpIcon:hover:before {
