@@ -600,7 +600,7 @@ a:hover {
   font-size: 1.5em;
   padding: 0.1em;
   margin-left: 0.2em;
-  fill: #e3d6a9;
+  fill: #aaa;
   cursor: pointer;
 }
 /* line 513, ../scss/ADM-dateTimePicker.scss */
@@ -609,7 +609,7 @@ a:hover {
 }
 /* line 516, ../scss/ADM-dateTimePicker.scss */
 .ADMdtp-box footer .timeSelectIcon:active {
-  fill: #e3d6a9;
+  fill: #aaa;
 }
 /* line 521, ../scss/ADM-dateTimePicker.scss */
 .ADMdtp-box hr {
@@ -805,7 +805,7 @@ a:hover {
 }
 /* line 689, ../scss/ADM-dateTimePicker.scss */
 .ADMdtpDays > span > span.selected, .ADMdtpMonths .ADMdtpDays > span > span:hover {
-  background: #fc5f2a !important;
+  background: #e41f00 !important;
   color: white !important;
   border-radius: 5em;
 }
