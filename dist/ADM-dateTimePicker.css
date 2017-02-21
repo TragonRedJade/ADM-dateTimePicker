@@ -29,10 +29,10 @@ a:hover {
 
 /* line 36, ../scss/ADM-dateTimePicker.scss */
 .dtp-trs-5 {
-  -moz-transition: all 0.2s;
-  -o-transition: all 0.2s;
-  -webkit-transition: all 0.2s;
-  transition: all 0.2s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
 }
 
 /* line 40, ../scss/ADM-dateTimePicker.scss */
@@ -104,7 +104,7 @@ a:hover {
   top: 0;
   left: 0;
   width: 100%;
-  height: 32px;
+  height: 43px;
   padding: 0px 8px;
   padding-top: 2px;
   -moz-transition: all 0.3s cubic-bezier(0.680, -0.550, 0.265, 1.550);
@@ -122,7 +122,7 @@ a:hover {
 }
 /* line 102, ../scss/ADM-dateTimePicker.scss */
 .dtp-ig .closeIcon {
-  background: #378bd3;
+  background: #e41f00;
   fill: white;
   -moz-transform: translateY(-100%);
   -ms-transform: translateY(-100%);
@@ -215,10 +215,10 @@ a:hover {
 }
 /* line 187, ../scss/ADM-dateTimePicker.scss */
 .dtpNewBox, .dtpNewBox .content, .dtpNewBox .calendarIcon {
-  -moz-transition: all 0.2s;
-  -o-transition: all 0.2s;
-  -webkit-transition: all 0.2s;
-  transition: all 0.2s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
 }
 /* line 191, ../scss/ADM-dateTimePicker.scss */
 .dtpNewBox .content {
@@ -766,16 +766,21 @@ a:hover {
 }
 /* line 657, ../scss/ADM-dateTimePicker.scss */
 .ADMdtpTime span.dtpIcon:before {
-  -moz-transition: all 0.2s;
-  -o-transition: all 0.2s;
-  -webkit-transition: all 0.2s;
-  transition: all 0.2s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
   padding: .8em 1em;
   border-radius: 1em;
 }
 /* line 663, ../scss/ADM-dateTimePicker.scss */
 .ADMdtpTime span.period {
   font-size: 2em;
+}
+
+.ADMdtpTime span.dtp-clock-unit {
+  background: #f1f1f1;
+  border-radius: 2px;
 }
 
 /* line 670, ../scss/ADM-dateTimePicker.scss */
