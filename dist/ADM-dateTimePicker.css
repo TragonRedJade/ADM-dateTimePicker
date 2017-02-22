@@ -502,9 +502,7 @@ a:hover {
   display: block;
   width: 4em;
   height: 1.7em;
-  left: 0;
   right: 0;
-  margin: 0 auto;
   border-radius: .5em;
   background: transparent;
   color: #aaa;
